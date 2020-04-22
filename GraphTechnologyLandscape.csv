@@ -4,6 +4,7 @@ Grano,Applications,Business network,,https://granoproject.org
 Infotrack,Applications,Business network,,https://www.infotrack.com.au/products/reveal-data-visualisation/
 OpenTheBox,Applications,Business network,,https://openthebox.be
 Vizalytics,Applications,Business network,,https://www.vizalytics.com
+metaphacts,Applications,Cultural Heritage,,https://metaphacts.com/application-areas/cultural-heritage
 Anomali Threat Platform,Applications,CyberSecurity,,https://www.anomali.com/platform/threatstream
 Beagle,Applications,CyberSecurity,,https://github.com/yampelo/beagle
 BlackPoint SNAP-Defense,Applications,CyberSecurity,,https://blackpointcyber.com/snap-defense/
@@ -17,6 +18,7 @@ TreatQuotient,Applications,CyberSecurity,,https://www.threatq.com
 TruSTAR,Applications,CyberSecurity,,https://www.trustar.co
 UpLevel,Applications,CyberSecurity,,https://www.uplevelsecurity.com
 VirusTotal Graph,Applications,CyberSecurity,,https://www.virustotal.com/gui/home/upload
+metaphacts,Applications,Engineering and Manufacturing,,https://metaphacts.com/application-areas/engineering-and-manufacturing
 Ayasdi,Applications,Fraud detection,,https://www.ayasdi.com
 Datarama,Applications,Fraud detection,,https://datarama.com/
 Elliptic,Applications,Fraud detection,,https://www.elliptic.co/
@@ -58,6 +60,7 @@ GRAKN.AI,Applications,Knowledge Graph Solutions,,http://grakn.ai
 Hume,Applications,Knowledge Graph Solutions,,http://hume.ga
 Maana,Applications,Knowledge Graph Solutions,,https://www.maana.io
 Menome,Applications,Knowledge Graph Solutions,,https://www.menome.com
+metaphacts,Applications,Knowledge Graph Solutions,,https://metaphacts.com/application-areas
 MissionGraph,Applications,Knowledge Graph Solutions,,https://www.missiongraph.ai
 Neoris,Applications,Knowledge Graph Solutions,,http://neoris.com
 OpenCog AtomSpace,Applications,Knowledge Graph Solutions,,https://github.com/opencog/atomspace
@@ -70,10 +73,12 @@ Topbraid EDG,Applications,Knowledge Graph Solutions,,https://www.topquadrant.com
 Unifi,Applications,Knowledge Graph Solutions,,https://unifisoftware.com/platform/
 UniGraph.io,Applications,Knowledge Graph Solutions,,https://unigraph.io
 WordLift,Applications,Knowledge Graph Solutions,,https://wordlift.io/blog/en/entity/knowledge-graph/
+metaphacts,Applications,Life Sciences,,https://metaphacts.com/application-areas/life-sciences
 Datameer,Applications,Machine learning,,https://www.datameer.com
 DeUmbra,Applications,Machine learning,,https://www.deumbra.com/
 Lynx Analytics,Applications,Machine learning,,https://www.lynxanalytics.com
-Sinequa,Applications,Machine learning,,https://www.sinequa.com,Sinequa Provides an AI-powered Search & Analytics Platform for Fortune Global 2000 Companies and Government Agencies.
+metaphacts,Applications,Machine learning,,https://metaphacts.com/product
+Sinequa,Applications,Machine learning,,https://www.sinequa.com
 InfraNodus,Applications,NLP / Text Network Analysis,,https://infranodus.com
 Quid,Applications,NLP / Text Network Analysis,,https://quid.com
 Textexture,Applications,NLP / Text Network Analysis,,https://textexture.com
@@ -125,6 +130,7 @@ Kernix,Applications,Visual analytics,,https://www.kernix.com
 Kumu,Applications,Visual analytics,,https://kumu.io
 Lynks,Applications,Visual analytics,,https://lynksoft.com
 MapLarge,Applications,Visual analytics,,https://maplarge.com/networkgraphs
+metaphacts,Applications,Visual analytics,,https://metaphacts.com/product
 MiniVAN,Applications,Visual analytics,,http://minivan.publicdatalab.org/_site/
 Mobi,Applications,Visual analytics,,https://mobi.inovexcorp.com
 MPhasis,Applications,Visual analytics,,https://www.mphasis.com/home/innovation/nextlabs/deepInsights.html
@@ -163,6 +169,7 @@ APOC,Developer tools,Application frameworks and libraries,,https://github.com/ne
 EngineYard,Developer tools,Application frameworks and libraries,,https://www.engineyard.com
 GraphAware Neo4j Framwork,Developer tools,Application frameworks and libraries,,https://github.com/graphaware/neo4j-framework
 Graphileon,Developer tools,Application frameworks and libraries,,https://graphileon.com/
+metaphacts,Developer tools,Application frameworks and libraries,,https://metaphacts.com/
 Spring,Developer tools,Application frameworks and libraries,,http://spring.io
 Structr,Developer tools,Application frameworks and libraries,,http://structr.com
 Domo,Developer tools,Business Intelligence Tools,,https://www.domo.com/
@@ -247,6 +254,7 @@ Knowledge Graph,Information resources,Books,2020,https://books.google.com/books/
 The Practitioner's Guide to Graph Data,Information resources,Books,2020,https://www.oreilly.com/library/view/the-practitioners-guide/9781492044062/
 Beginning Neo4j,Information resources,Books,,https://www.oreilly.com/library/view/beginning-neo4j/9781484212271/
 Building Web Applications with Python and Neo4j,Information resources,Books,,https://www.packtpub.com/application-development/building-web-applications-python-and-neo4j/?utm_source=POD&utm_medium=referral&utm_campaign=1783983981
+EdUcational Curriculum for the usage of LInked Data EUCLID,Information resources,Books,,http://euclid-project.eu/
 Good Relationships - The Spring Data Neo4j Guide Book,Information resources,Books,,http://www.lulu.com/shop/michael-hunger-and-david-montag-and-andreas-kollegger/good-relationships-the-spring-data-neo4j-guide-book/paperback/product-20201195.html
 Graph Algorithms,Information resources,Books,,https://www.oreilly.com/library/view/graph-algorithms/9781492047674/
 Graph Analysis and Visualization: Discovering Business Opportunity in Linked Data,Information resources,Books,,https://www.amazon.com/Graph-Analysis-Visualization-Discovering-Opportunity-ebook/dp/B00T1JQUQE
@@ -256,6 +264,7 @@ Graph Databases in Action,Information resources,Books,,https://www.manning.com/b
 Graph-Powered Machine Learning,Information resources,Books,,https://www.manning.com/books/graph-powered-machine-learning
 Learning Cypher,Information resources,Books,,https://www.packtpub.com/hardware-and-creative/learning-cypher
 Learning Neo4j 3.x – Second Edition,Information resources,Books,,https://www.packtpub.com/big-data-and-business-intelligence/learning-neo4j-3x-second-edition
+Learning Sparql,Information resources,Books,,https://www.oreilly.com/library/view/learning-sparql-2nd/9781449371449/
 Mastering Gephi Network Visualization,Information resources,Books,,https://www.amazon.com/Mastering-Gephi-Network-Visualization-Cherven/dp/1783987340
 Neo4j : des données et des graphes - II. Déploiement,Information resources,Books,,https://www.amazon.com/gp/product/B0786LZL6Y/ref=dbs_a_def_rwt_bibl_vppi_i0
 Neo4j 2.0 – Eine Graphdatenbank für alle,Information resources,Books,,https://neo4j.com/neo4j-graphdatenbank-book/
@@ -269,11 +278,13 @@ Seven Databases in Seven Weeks,Information resources,Books,,http://www.amazon.co
 Structr-Quelloffenes Daten-CMS auf Neo4j-Basis,Information resources,Books,,https://entwickler.de/press/structr-126647.html
 Visualizing Graph Data,Information resources,Books,,https://www.manning.com/books/visualizing-graph-data
 Connected Data London,Information resources,Conferences,,https://connected-data.london
+European Semantic Web Conference ESWC,Information resources,Conferences,,https://eswc-conferences.org/
 FOSDEM,Information resources,Conferences,,https://fosdem.org/
 Graph Tour,Information resources,Conferences,,https://neo4j.com/graphtour/
 GraphConnect,Information resources,Conferences,,https://graphconnect.com
 GraphDay,Information resources,Conferences,,http://graphday.com
 Graphorum,Information resources,Conferences,,https://graphorum2019.dataversity.net
+International Semantic Web Conference ISWC,Information resources,Conferences,,https://iswc2020.semanticweb.org/
 Knowledge Graph Conference,Information resources,Conferences,,https://www.knowledgegraph.tech
 Nodes2019,Information resources,Conferences,,https://neo4j.com/online-summit/
 Akutan (former Beam),Infrastructure,Database,Graph DBMS,https://github.com/eBay/akutan
@@ -360,6 +371,7 @@ Anzo,Infrastructure,Integration,,https://www.cambridgesemantics.com/product/
 Confluent,Infrastructure,Integration,,http://confluent.io
 Data Virtuality,Infrastructure,Integration,,https://datavirtuality.com/connectors/
 Databridge,Infrastructure,Integration,,https://graphaware.com/products/
+metaphacts,Infrastructure,Integration,,https://metaphacts.com/ephedra
 Neo4j ETL,Infrastructure,Integration,,https://neo4j.com/developer/neo4j-etl/
 Norconex,Infrastructure,Integration,,https://www.norconex.com
 Paxata,Infrastructure,Integration,,https://www.paxata.com
@@ -378,6 +390,7 @@ GrapheneDB,Infrastructure,Platform,Paas,http://graphenedb.com
 GraphGrid,Infrastructure,Platform,Paas,https://www.graphgrid.com
 GraphStory,Infrastructure,Platform,Paas,http://graphstory.com
 Huawei Graph Engine Service,Infrastructure,Platform,Paas,https://www.huaweicloud.com/en-us/product/ges.html
+metaphacts,Infrastructure,Platform,Paas,https://metaphacts.com/
 Neo4j Aura,Infrastructure,Platform,Paas,https://neo4j.com/aura/
 TigerGraph,Infrastructure,Platform,Paas,https://www.tigergraph.com
 42Telents,Services,Consultancy / Professional Services,,https://42talents.com/en/
@@ -404,6 +417,7 @@ IntelliPeak Solutions, Inc.,Services,Consultancy / Professional Services,,https:
 Kubrick,Services,Consultancy / Professional Services,,https://kubrickgroup.com/
 LARUS Business Automation,Services,Consultancy / Professional Services,,http://larus-ba.it
 Marionete,Services,Consultancy / Professional Services,,https://marionete.co.uk
+metaphacts,Services,Consultancy / Professional Services,,http://metaphacts.com/partners
 Millersoft,Services,Consultancy / Professional Services,,https://www.millersoft.ltd.uk
 muutto®,Services,Consultancy / Professional Services,,https://muutto.de
 Neo4j,Services,Consultancy / Professional Services,,https://neo4j.com
