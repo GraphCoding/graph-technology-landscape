@@ -326,7 +326,7 @@ MariaDB,Infrastructure,Database,Multi-model,https://mariadb.com/kb/en/oqgraph-st
 Marklogic,Infrastructure,Database,Multi-model,https://www.marklogic.com
 Microsoft Azure Cosmos DB,Infrastructure,Database,Multi-model,https://azure.microsoft.com/en-us/services/cosmos-db/
 Microsoft SQL Server 2017 Graph,Infrastructure,Database,Multi-model,https://docs.microsoft.com/en-us/sql/relational-databases/graphs/sql-graph-architecture?view=sql-server-2017
-Nebula Graph,Infrastructure,Database,Multi-model,https://nebula-graph.io
+Nebula Graph,Infrastructure,Database,Graph DBMS,https://nebula-graph.io
 Nitrosbase,Infrastructure,Database,Multi-model,https://nitrosbase.com
 Objevtivity,Infrastructure,Database,Multi-model,http://objectivity.com
 Oracle Spatial and Graph,Infrastructure,Database,Multi-model,https://www.oracle.com/technetwork/database/options/spatialandgraph/overview/index.html
